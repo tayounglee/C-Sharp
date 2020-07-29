@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\IntegralTypes\\IntegralTypes\\IntegralTypes.csproj": {}
+    "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\3장\\IntegralTypes\\IntegralTypes\\IntegralTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\IntegralTypes\\IntegralTypes\\IntegralTypes.csproj": {
+    "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\3장\\IntegralTypes\\IntegralTypes\\IntegralTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\IntegralTypes\\IntegralTypes\\IntegralTypes.csproj",
+        "projectUniqueName": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\3장\\IntegralTypes\\IntegralTypes\\IntegralTypes.csproj",
         "projectName": "IntegralTypes",
-        "projectPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\IntegralTypes\\IntegralTypes\\IntegralTypes.csproj",
+        "projectPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\3장\\IntegralTypes\\IntegralTypes\\IntegralTypes.csproj",
         "packagesPath": "C:\\Users\\lahoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\IntegralTypes\\IntegralTypes\\obj\\",
+        "outputPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\3장\\IntegralTypes\\IntegralTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lahoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
