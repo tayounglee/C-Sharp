@@ -1,0 +1,13 @@
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.exe
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.deps.json
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.runtimeconfig.json
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.runtimeconfig.dev.json
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.dll
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.pdb
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.csprojAssemblyReference.cache
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.AssemblyInfoInputs.cache
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.AssemblyInfo.cs
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.dll
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.pdb
+C:\Users\lahoo\source\repos\tayounglee\C-\IntegralTypes\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.genruntimeconfig.cache
