@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\MainApp\\MainApp\\MainApp.csproj",
-      "projectName": "MainApp",
-      "projectPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\MainApp\\MainApp\\MainApp.csproj",
+      "projectUniqueName": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\MainApp\\MainApp\\IntegralTypes.csproj",
+      "projectName": "IntegralTypes",
+      "projectPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\MainApp\\MainApp\\IntegralTypes.csproj",
       "packagesPath": "C:\\Users\\lahoo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\MainApp\\MainApp\\obj\\",
       "projectStyle": "PackageReference",
