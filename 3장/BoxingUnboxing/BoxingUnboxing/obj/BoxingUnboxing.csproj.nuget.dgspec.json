@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\3장\\BoxingUnboxing\\BoxingUnboxing\\BoxingUnboxing.csproj": {}
+    "C:\\Users\\lahoo\\Source\\Repos\\tayounglee\\C-\\3장\\BoxingUnboxing\\BoxingUnboxing\\BoxingUnboxing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\3장\\BoxingUnboxing\\BoxingUnboxing\\BoxingUnboxing.csproj": {
+    "C:\\Users\\lahoo\\Source\\Repos\\tayounglee\\C-\\3장\\BoxingUnboxing\\BoxingUnboxing\\BoxingUnboxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\3장\\BoxingUnboxing\\BoxingUnboxing\\BoxingUnboxing.csproj",
+        "projectUniqueName": "C:\\Users\\lahoo\\Source\\Repos\\tayounglee\\C-\\3장\\BoxingUnboxing\\BoxingUnboxing\\BoxingUnboxing.csproj",
         "projectName": "BoxingUnboxing",
-        "projectPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\3장\\BoxingUnboxing\\BoxingUnboxing\\BoxingUnboxing.csproj",
+        "projectPath": "C:\\Users\\lahoo\\Source\\Repos\\tayounglee\\C-\\3장\\BoxingUnboxing\\BoxingUnboxing\\BoxingUnboxing.csproj",
         "packagesPath": "C:\\Users\\lahoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\3장\\BoxingUnboxing\\BoxingUnboxing\\obj\\",
+        "outputPath": "C:\\Users\\lahoo\\Source\\Repos\\tayounglee\\C-\\3장\\BoxingUnboxing\\BoxingUnboxing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lahoo\\AppData\\Roaming\\NuGet\\NuGet.Config",

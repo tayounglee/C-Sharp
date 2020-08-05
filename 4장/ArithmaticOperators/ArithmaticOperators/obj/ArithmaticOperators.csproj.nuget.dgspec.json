@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\4장\\ArithmaticOperators\\ArithmaticOperators\\ArithmaticOperators.csproj": {}
+    "C:\\Users\\lahoo\\Source\\Repos\\tayounglee\\C-\\4장\\ArithmaticOperators\\ArithmaticOperators\\ArithmaticOperators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\4장\\ArithmaticOperators\\ArithmaticOperators\\ArithmaticOperators.csproj": {
+    "C:\\Users\\lahoo\\Source\\Repos\\tayounglee\\C-\\4장\\ArithmaticOperators\\ArithmaticOperators\\ArithmaticOperators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\4장\\ArithmaticOperators\\ArithmaticOperators\\ArithmaticOperators.csproj",
+        "projectUniqueName": "C:\\Users\\lahoo\\Source\\Repos\\tayounglee\\C-\\4장\\ArithmaticOperators\\ArithmaticOperators\\ArithmaticOperators.csproj",
         "projectName": "ArithmaticOperators",
-        "projectPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\4장\\ArithmaticOperators\\ArithmaticOperators\\ArithmaticOperators.csproj",
+        "projectPath": "C:\\Users\\lahoo\\Source\\Repos\\tayounglee\\C-\\4장\\ArithmaticOperators\\ArithmaticOperators\\ArithmaticOperators.csproj",
         "packagesPath": "C:\\Users\\lahoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lahoo\\source\\repos\\tayounglee\\C-\\4장\\ArithmaticOperators\\ArithmaticOperators\\obj\\",
+        "outputPath": "C:\\Users\\lahoo\\Source\\Repos\\tayounglee\\C-\\4장\\ArithmaticOperators\\ArithmaticOperators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lahoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
