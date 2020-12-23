@@ -3,61 +3,47 @@ using System.Collections;
 
 public class PlayerControl : MonoBehaviour
 {
-    public float movementSpeed = 5f;
-    public float mouseSensitivity = 2f;
-    public float upDownRange = 90;
+    public float Speed = 3.0f;
 
-    private Vector3 speed;
-    private float forwardSpeed;
-    private float sideSpeed;
-
-    private float rotateLeftRight;
-    private float verticalRotation = 0f;
-
-    private float verticalVelocity = 0f;
-
-
-    private CharacterController charactercontroller;
-
+    float actorRotationX;
+    float actorRotationY;
+   
     void Start()
     {
-        charactercontroller = GetComponent<CharacterController>();
-        Cursor.lockState = CursorLockMode.Locked;
+      
 
     }
 
     void Update()
     {
-
-        PlayerMove();
-        PlayerRotate();
+        UpdateRotation();
+        UpdateMovement();
     }
 
-
-    //Player의 x축, z축 움직임을 담당
-    void PlayerMove()
+    void UpdateMovement()
     {
-        forwardSpeed = Input.GetAxis("Vertical") * movementSpeed;
-        sideSpeed = Input.GetAxis("Horizontal") * movementSpeed;
+        float forwardInput = Input.GetAxis("Vertical") * Time.deltaTime * Speed;
+        float rightInput = Input.GetAxis("Horizontal") * Time.deltaTime * Speed;
 
-        verticalVelocity += Physics.gravity.y * Time.deltaTime;
-
-        speed = new Vector3(sideSpeed, verticalVelocity, forwardSpeed);
-        speed = transform.rotation * speed;
-
-        charactercontroller.Move(speed * Time.deltaTime);
+        // z축을 입력한 만큼 추가
+        Vector3 left = transform.position;
+        left.z += forwardInput;
+        left.x += rightInput;
+        transform.position = left;
     }
 
-    //Player의 회전을 담당
-    void PlayerRotate()
+    void UpdateRotation()
     {
-        //좌우 회전
-        rotateLeftRight = Input.GetAxis("Mouse X") * mouseSensitivity;
-        transform.Rotate(0f, rotateLeftRight, 0f);
+        float mouseX = Input.GetAxis("Mouse X");
+        float mouseY = Input.GetAxis("Mouse Y");
 
-        //상하 회전
-        verticalRotation -= Input.GetAxis("Mouse Y") * mouseSensitivity;
-        verticalRotation = Mathf.Clamp(verticalRotation, -upDownRange, upDownRange);
-        Camera.main.transform.localRotation = Quaternion.Euler(verticalRotation, 0f, 0f);
+        actorRotationX += mouseX;
+        actorRotationY += mouseY;
+
+        actorRotationX %= 360.0f;
+        actorRotationY = Mathf.Clamp(actorRotationY, -90.0f, 90.0f);
+
+        transform.rotation = Quaternion.Euler(-actorRotationY, actorRotationX, 0);
     }
+
 }
